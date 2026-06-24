@@ -35,6 +35,9 @@ JSON/
 ## Commonly used CMake directories & CMake CPM cache
 build*/
 .cache
+bin/
+bin-int/
+Makefile
 
 ## Xcode & macOS artifacts
 project.xcworkspace
